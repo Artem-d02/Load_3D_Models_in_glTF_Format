@@ -1,0 +1,16 @@
+{
+  "name": "load_3d_models_in_gltf_format",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node static-file-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "three": "^0.137.5",
+    "three-js-csg": "^72.0.0"
+  }
+}
